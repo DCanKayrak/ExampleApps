@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrnekUygulamalar", "OrnekUygulamalar\OrnekUygulamalar.csproj", "{9CCC0011-CB05-45A7-8F74-E305B68A23B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ornekler", "Ornekler\Ornekler.csproj", "{AF07D40D-911E-4E9A-88AE-E5123CB4E693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CCC0011-CB05-45A7-8F74-E305B68A23B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CCC0011-CB05-45A7-8F74-E305B68A23B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CCC0011-CB05-45A7-8F74-E305B68A23B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CCC0011-CB05-45A7-8F74-E305B68A23B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF07D40D-911E-4E9A-88AE-E5123CB4E693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF07D40D-911E-4E9A-88AE-E5123CB4E693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF07D40D-911E-4E9A-88AE-E5123CB4E693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF07D40D-911E-4E9A-88AE-E5123CB4E693}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3208B106-5443-47C2-A2E1-B8C5582A9510}
+	EndGlobalSection
+EndGlobal
