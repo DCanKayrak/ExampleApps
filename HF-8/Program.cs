@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HF_8
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            if(BitConverter.IsLittleEndian)
+                Console.WriteLine("Little Endian");
+            else
+                Console.WriteLine("Big endian");
+
+            int a = 46513;
+
+            byte[] b = BitConverter.GetBytes(a);
+
+            foreach (byte x in b)
+            {
+                Console.WriteLine(x);
+            }
+        }
+    }
+}
